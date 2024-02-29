@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\2304071\eclipse-workspace\Hackathon_sample\src\test\java\hackathon\Write.java"/>
+			<item value="C:\Users\2304071\Downloads\INT2QEA23QE007_Group02_GSD1\sample\src\test\java\factory\baseclass.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -13,6 +15,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -43,12 +46,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="selenium_testing"/>
+			<item value="Emi_calculator"/>
+			<item value="Hackathon"/>
+			<item value="Hackathon_sample"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="selenium_testing"/>
+			<item value="Emi_calculator"/>
+			<item value="Hackathon"/>
+			<item value="Hackathon_sample"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
